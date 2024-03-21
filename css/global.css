@@ -10,3 +10,6 @@ body{
 .bg-cyan{
 	background-color: #0b8def;
 }
+footer .container .row {
+	font-size: 0.9em;
+}
