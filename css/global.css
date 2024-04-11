@@ -13,3 +13,7 @@ body{
 footer .container .row {
 	font-size: 0.9em;
 }
+#loading{
+	display: flex;
+	justify-content: center;
+}

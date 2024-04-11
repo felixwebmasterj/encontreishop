@@ -1,0 +1,122 @@
+<!-- ITENS -->
+	<a href="https://shope.ee/2VTbWL2uPQ" class="text-decoration-none itemSeachb" target="_blank">
+		<div class="row bg-light rounded mx-1 py-3 mt-1 shadow-sm">
+			<div class="col-5">
+				<img src="img/001.jpg" class="d-block w-100 border rounded"/>
+			</div>
+			<div class="col-7 ">
+				<span class="fs-6 itemSeach" >#01 Cafeteira Iperespresso Illy Y3.3 Maquina Cafe Amarela 127v</span>
+				<div><img src="img/shopee-logo.png" width="60"></div>
+			</div>
+		</div>
+	</a>
+
+	
+
+	<a href="https://shope.ee/2LABK23XkP" class="text-decoration-none itemSeachb" target="_blank">
+		<div class="row bg-light rounded mx-1 py-3 mt-1 shadow-sm">
+			<div class="col-5">
+				<img src="img/002.jpg" class="d-block w-100 border rounded"/>
+			</div>
+			<div class="col-7">
+				<span class="fs-6 itemSeach">#02 Cortador Multifuncional De Frutas Vegetais</span>
+				<div><img src="img/shopee-logo.png" width="60"></div>
+			</div>
+		</div>
+	</a>
+
+	<a href="https://shope.ee/2Aql7j4B5O" class="text-decoration-none itemSeachb" target="_blank">
+		<div class="row bg-light rounded mx-1 py-3 mt-1 shadow-sm">
+			<div class="col-5">
+				<img src="img/003.jpg" class="d-block w-100 border rounded"/>
+			</div>
+			<div class="col-7">
+				<span class="fs-6 itemSeach">#03 Caneca De Café Auto Agitadora Elétrica Portátil</span>
+				<div><img src="img/shopee-logo.png" width="60"></div>
+			</div>
+		</div>
+	</a>
+
+	<a href="https://shope.ee/LP6wPNLns" class="text-decoration-none itemSeachb" target="_blank">
+		<div class="row bg-light rounded mx-1 py-3 mt-1 shadow-sm">
+			<div class="col-5">
+				<img src="img/004.jpg" class="d-block w-100 border rounded"/>
+			</div>
+			<div class="col-7">
+				<span class="fs-6 itemSeach">#04 Cabo De Garrafa De Água Engarrafada </span>
+				<div><img src="img/shopee-logo.png" width="60"></div>
+			</div>
+		</div>
+	</a>
+
+	<a href="https://shope.ee/mGXnOcTq" class="text-decoration-none itemSeachb" target="_blank">
+		<div class="row bg-light rounded mx-1 py-3 mt-1 shadow-sm">
+			<div class="col-5">
+				<img src="img/005.jpg" class="d-block w-100 border rounded"/>
+			</div>
+			<div class="col-7 ">
+				<span class="fs-6 itemSeach">#05 Descanso de Pratos Panela Silicone</span>
+				<div><img src="img/shopee-logo.png" width="60"></div>
+			</div>
+		</div>
+	</a>
+
+	<a href="https://shope.ee/B5gk6Nz8t" class="text-decoration-none itemSeachb" target="_blank">
+		<div class="row bg-light rounded mx-1 py-3 mt-1 shadow-sm">
+			<div class="col-5">
+				<img src="img/006.jpg" class="d-block w-100 border rounded"/>
+			</div>
+			<div class="col-7">
+				<span class="fs-6 itemSeach">#06 Lavadora Manual de Alimentos Frutas Verduras</span>
+				<div><img src="img/shopee-logo.png" width="60"></div>
+			</div>
+		</div>
+	</a>
+
+	<a href="https://shope.ee/7UsHTfG2xK" class="text-decoration-none itemSeachb" target="_blank">
+		<div class="row bg-light rounded mx-1 py-3 mt-1 shadow-sm">
+			<div class="col-5">
+				<img src="img/007.jpg" class="d-block w-100 border rounded"/>
+			</div>
+			<div class="col-7">
+				<span class="fs-6 itemSeach">#07 Copo de vidro quadrado com tampa de bambu, ideal para todo tipo de drink quente ou gelado agua café chá</span>
+				<div><img src="img/shopee-logo.png" width="60"></div>
+			</div>
+		</div>
+	</a>
+	
+	<a href="https://shope.ee/7KYrHMGgIJ" class="text-decoration-none itemSeachb" target="_blank">
+		<div class="row bg-light rounded mx-1 py-3 mt-1 shadow-sm">
+			<div class="col-5">
+				<img src="img/008.jpg" class="d-block w-100 border rounded"/>
+			</div>
+			<div class="col-7">
+				<span class="fs-6 itemSeach">#08 Pote De Pickle E Ampulheta De Azeitona , Flip Separado A Partir De Molhado Seco Com Filtro , Separador</span>
+				<div><img src="img/shopee-logo.png" width="60"></div>
+			</div>
+		</div>
+	</a>
+
+	<a href="https://shope.ee/5pk3UbMOL2" class="text-decoration-none itemSeachb" target="_blank">
+		<div class="row bg-light rounded mx-1 py-3 mt-1 shadow-sm">
+			<div class="col-5">
+				<img src="img/009.jpg" class="d-block w-100 border rounded"/>
+			</div>
+			<div class="col-7">
+				<span class="fs-6 itemSeach">#09 Dispenser De Oleo Azeite Com Escova De Silicone Vidro 180ml</span>
+				<div><img src="img/shopee-logo.png" width="60"></div>
+			</div>
+		</div>
+	</a>
+	
+	<a href="https://shope.ee/5fQdIIN1g1" class="text-decoration-none itemSeachb" target="_blank">
+		<div class="row bg-light rounded mx-1 py-3 mt-1 shadow-sm">
+			<div class="col-5">
+				<img src="img/010.jpg" class="d-block w-100 border rounded"/>
+			</div>
+			<div class="col-7">
+				<span class="fs-6 itemSeach">#10 Pote de Marmita 3 andares ecológica lunch box 900ml</span>
+				<div><img src="img/shopee-logo.png" width="60"></div>
+			</div>
+		</div>
+	</a>
